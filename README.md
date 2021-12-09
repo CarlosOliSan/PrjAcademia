@@ -1,2 +1,2 @@
-# PrjAcademia
-Projeto de uma Academia, realizado em C#
+# PrjControlePessoa
+Projeto de controle de pessoas, realizado em C#
